@@ -1,0 +1,122 @@
+<resources>
+    <string name="app_name">ChatApp</string>
+    <string name="login_to_continue">Zaloguj się aby kontynuować</string>
+    <string name="email">Email</string>
+    <string name="password">Hasło</string>
+    <string name="welcome_back">Witaj!</string>
+    <string name="sign_in">Zaloguj</string>
+    <string name="create_new_account">Utwórz konto</string>
+    <string name="add_image">Dodaj zdjęcie</string>
+    <string name="name">Imię</string>
+    <string name="confirm_password">Potwierdź hasło</string>
+    <string name="sign_up">Zarejestruj się</string>
+    <string name="select_user">Użytkownicy w pobliżu</string>
+    <string name="type_a_message">Wpisz wiadomość</string>
+    <string name="online">Online</string>
+    <string name="write_a_short_bio">Napisz coś o sobie: co studiujesz, gdzie pracujesz, jakie masz hobby… Daj się poznać!</string>
+    <string name="save">Zapisz</string>
+    <string name="choose_gender">Wybierz płeć</string>
+    <string name="women">Kobieta</string>
+    <string name="man">Mężczyzna</string>
+    <string name="choose_year_of_birth">Rok urodzenia</string>
+    <string name="single_chats">Ostatnie rozmowy</string>
+    <string name="start_chat">Zacznij chat</string>
+    <string name="title_activity_maps">Mapa</string>
+    <string name="check">Sprawdź</string>
+    <string name="add_activity">Dodaj wydarzenie</string>
+    <string name="confirm">Potwierdź</string>
+    <string name="cancel">Anuluj</string>
+    <string name="choose_activity_category">Wybierz kategorię</string>
+    <string name="description">Opis</string>
+    <string name="set_visibility_duration">Wydarzenie będzie widoczne przez:</string>
+    <string name="join">Dołącz</string>
+    <string name="delete">Usuń</string>
+    <string name="forgot_password">Przypomnij hasło</string>
+    <string name="reset_password">Zresetuj hasło</string>
+    <string name="describe_event">Opisz wydarzenie: co, gdzie, kiedy…</string>
+    <string name="na_pewno_chcesz_usun_rozmow">Na pewno chcesz usunąć rozmowę?</string>
+    <string name="nie">NIE</string>
+    <string name="tak">TAK</string>
+
+    <string-array name="sports">
+        <item>Badminton</item>
+        <item>Bar</item>
+        <item>Bieganie</item>
+        <item>Bilard</item>
+        <item>Box</item>
+        <item>Camping</item>
+        <item>Czytanie</item>
+        <item>Domki letniskowe</item>
+        <item>Fitness</item>
+        <item>Frisbee</item>
+        <item>Gokarty</item>
+        <item>Grill</item>
+        <item>Gry karciane</item>
+        <item>Hiking</item>
+        <item>Hockey</item>
+        <item>Informacja</item>
+        <item>Jazda na koniu</item>
+        <item>Jazda na nartach</item>
+        <item>Joga</item>
+        <item>Kajaki</item>
+        <item>Kino</item>
+        <item>Kitesurfing</item>
+        <item>Koszykówka</item>
+        <item>Kręgle</item>
+        <item>Las</item>
+        <item>Lody</item>
+        <item>Łowienie ryb</item>
+        <item>Łucznictwo</item>
+        <item>Łyżwy</item>
+        <item>Muzeum</item>
+        <item>Na łonie natury</item>
+        <item>Nauka</item>
+        <item>Nordic skiing</item>
+        <item>Odpoczynek za miastem</item>
+        <item>Piłka nożna</item>
+        <item>Piłka ręczna</item>
+        <item>Piwo w plenerze</item>
+        <item>Pływanie</item>
+        <item>Podwózka</item>
+        <item>Pomoc/naprawa</item>
+        <item>Restauracja</item>
+        <item>Rolki</item>
+        <item>Rowery</item>
+        <item>Rowery górskie</item>
+        <item>Siatkówka</item>
+        <item>Siatkówka plażowa</item>
+        <item>Siłownia</item>
+        <item>Skateboarding</item>
+        <item>Snowboarding</item>
+        <item>Squash</item>
+        <item>Szachy</item>
+        <item>Taniec</item>
+        <item>Teatr</item>
+        <item>Tenis</item>
+        <item>Tenis stołowy</item>
+        <item>Wesołe miasteczko</item>
+        <item>Wspinaczka</item>
+        <item>Wyjście do klubu</item>
+        <item>Wyjście na drinka</item>
+        <item>Wypad nad morze</item>
+        <item>Wypad w góry</item>
+        <item>Wyprowadzanie psa</item>
+        <item>Zoo</item>
+        <item>Zwiedzanie</item>
+        <item>Żeglowanie</item>
+        <item>Inne</item>
+    </string-array>
+
+    <string-array name="duration">
+        <item>1 godzina</item>
+        <item>3 godziny</item>
+        <item>5 godzin</item>
+        <item>12 godzin</item>
+        <item>24 godziny</item>
+        <item>2 dni</item>
+        <item>3 dni</item>
+        <item>7 dni</item>
+        <item>2 tygodnie</item>
+    </string-array>
+
+</resources>

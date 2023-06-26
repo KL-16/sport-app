@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1058369250105",
+    "project_id": "chat-app-bcde0",
+    "storage_bucket": "chat-app-bcde0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1058369250105:android:42b271fae15cd4be203ee8",
+        "android_client_info": {
+          "package_name": "com.joinme.chatapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1058369250105-d0a2j5bcktksgffakk92romch630lbgp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDVcsrwpkrpFghRTRYHKa3W6yjwsfxb0GE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1058369250105-d0a2j5bcktksgffakk92romch630lbgp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
